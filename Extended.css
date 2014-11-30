@@ -1,0 +1,43 @@
+a:hover{
+	text-decoration: none;
+	color:blue;
+}
+
+h1{
+	color:pink;
+	text-align: center;
+	font-weight: bold;
+}
+
+h2{
+	text-align: center;
+}
+
+
+span{
+	color:red;
+	background-color: orange;
+
+}
+
+body{
+	background:url(http://www.hilton.com/top-destinations/assets/uploads/hero-images/Destinations_Header_NewYork.jpg);
+	background-position: center;
+	background-repeat: repeat;
+	background-attachment: fixed;
+	font-family: sans-serif, Verdana;
+}
+
+p{
+    color:white;
+	font-family:Verdana;
+	float:left;
+	font-size: 20px;
+	width: 280;
+	
+}
+
+p:first-child{
+	color:yellow;
+}
+
